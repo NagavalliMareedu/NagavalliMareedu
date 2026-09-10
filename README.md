@@ -28,6 +28,18 @@ A production-style, reproducible implementation for deploying a Gemini-powered F
 
 ---
 
+## 🤖 Featured Agentic AI Project
+
+### [Enterprise Agentic AI Platform](https://github.com/NagavalliMareedu/Portfolio_3/tree/main/enterprise-agentic-ai-platform)
+
+A runnable, production-minded FastAPI platform demonstrating agent planning, grounded retrieval with citations, role-based tool access, human approval for sensitive actions, structured execution traces, Docker, automated tests, and GitHub Actions CI.
+
+**Stack:** Python, FastAPI, Pydantic, RAG, Agent Orchestration, RBAC, Human-in-the-Loop, Docker, Pytest
+
+[View source code, architecture, tests, and setup instructions →](https://github.com/NagavalliMareedu/Portfolio_3/tree/main/enterprise-agentic-ai-platform)
+
+---
+
 ## 🛠️ Technical Skills
 
 **Languages:** Python, SQL, JavaScript, TypeScript  
